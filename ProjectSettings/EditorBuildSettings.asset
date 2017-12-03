@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/StartScreen.unity
+    guid: a37f7c07b84a3894181f48d73015efea
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene1.unity
+    guid: 5583700210d854113ad21dbaade31f18
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene2.unity
+    guid: 5cb15f980b2e1422b9314cb5d0d2722e
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene3.unity
+    guid: d6f8719e8aa41435cad010f8e54295e4
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene4.unity
+    guid: a77417e0dfb4b4956a22bfb2bddd724a
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene5.unity
+    guid: 1bd5c7a867d83407182e95794066f014
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene6.unity
+    guid: f2096bb59c31e49c88d04e44966582a4
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene7.unity
+    guid: e5768950e3bec491eb65db4a025cf33e
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene8.unity
+    guid: 2fffbfcdd2c0b4be1a1967e1b34ad19b
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene9.unity
+    guid: e50f628d46e21d64b907b015f6490651
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene10.unity
+    guid: 8949f0d86a465b640aaed8a32d2891f2
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/Scene11.unity
+    guid: 19d35544d3c1848a68c7c8377196af6b
+  - enabled: 1
+    path: Assets/FurBall2D_mobile/Scenes/GameOver.unity
+    guid: 9dee994fb1f38d340bea99dbe7f8df70
